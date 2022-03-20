@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Variousak
+- 👀 I’m interested in coding and working with physical applications.
+- 🌱 I’m currently learning micropython with the pico pi.
+- 💞️ I’m always looking to collaborate on new projects that challenge me.
+- 📫 How to reach me to be determined
